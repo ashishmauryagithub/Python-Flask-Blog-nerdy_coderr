@@ -1,0 +1,26 @@
+{
+  "params":
+      {
+        "localhost": "True",
+        "local_uri": "mysql://root:@localhost:3308/nerdy_coderr",
+        "prod_uri": "mysql://root:@localhost:3308/nerdy_coderr",
+        "fb_url": "https://facebook.com/nerdycoderr",
+        "tw_url": "https://twitter.com/nerdycoderr",
+        "gh_url": "https://github.com/nerdycoderr",
+        "blog_name": "nerdy_coderr",
+        "tag_line": "A competitive Programming Blog by Nerds",
+        "gmail_user": "Your Email ID",
+        "gmail_pass": "Your password",
+        "no_post": 2,
+        "admin_user": "ashish",
+        "admin_password": "123456789",
+        "login_image": "bootstrap-solid.svg",
+        "upload_location": "C:\\Users\\asus\\PycharmProjects\\python-tuts"
+
+
+      }
+
+
+
+
+}
